@@ -1,0 +1,15 @@
+#profile-title: Сочи впн
+#profile-update-interval: 1
+#profile-web-page-url: https://yandex.ru
+#subscription-userinfo: upload=0; download=0; total=0; expire=1798761600
+#announce: #F07049КАКДЕЛА
+
+vless://cfbfd307-1de9-49e1-8b8a-e1f831771c0e@prvtch.titun.su:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eot.su&sid=428ef87fd47a3a32#🇷🇺 Казань | LTE
+
+vless://cfbfd307-1de9-49e1-8b8a-e1f831771c0e@es.subv.ru:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=es.subv.ru&sid=614f75d625309dee#🇷🇺 Ульяновск | LTE
+
+vless://cfbfd307-1de9-49e1-8b8a-e1f831771c0e@nuxde.jojack.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=des-studio.su&sid=428ef87fd47a3a32#🇷🇺 Туапсе | Перебойный LTE
+
+vless://cfbfd307-1de9-49e1-8b8a-e1f831771c0e@hb-by3.cdns.su:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hb-by3.cdns.su&fp=qq&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=0273d62b9b0b742a&type=tcp&headerType=none#🇧🇾 Беларусь
+
+vless://cfbfd307-1de9-49e1-8b8a-e1f831771c0e@lt.subv.ru:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lt.subv.ru&sid=4024cb2ced8c659b#🇱🇹 Литва | WIFI
