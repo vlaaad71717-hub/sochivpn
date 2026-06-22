@@ -1,0 +1,7 @@
+#profile-update-interval: 1
+#profile-title: China VPN | Booster
+#subscription-userinfo: upload=0; download=268435456000; total=1099511627776; expire=1817736480
+#support-url: t.me/help_chinavpn77
+#profile-web-page-url: t.me/chinavpn77_robot
+#announce: Подписка до 08.08.2027 14:48 🟢 |  ⌛ Лимит ГБ - 1 ТБ 
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.146.213:2777?security=reality&encryption=none&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=0f4dacf08722a29f#🇨🇭
