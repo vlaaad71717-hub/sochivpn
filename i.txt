@@ -2,7 +2,7 @@
 #providerid: m5J7TZG0
 #profile-update-interval: 1
 #sub-info-color: red
-#sub-info-text: 👇 ДО 15 АПРЕЛЯ 5038 👇
+#sub-info-text: 👇 ДО 15 АПРЕЛЯ 5039 👇
 #hide-vpn-icon: true
 #support-url: https://kakao.ru/
 #profile-web-page-url: https://kakao.ru/
