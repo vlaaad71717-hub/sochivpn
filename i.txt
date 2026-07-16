@@ -6,7 +6,7 @@
 #hide-vpn-icon: true
 #support-url: https://kakao.ru/
 #profile-web-page-url: https://kakao.ru/
-#announce: 🌐 — YouTube и сайты без рекламы · 🛡 — обход блокировок и белых списков · 🧠 — работа с Gemini и нейросетями · 📶 — защита в любых Wi-Fi сетях · 🚀 — высокая скорость
+#announce: 🌐- — YouTube и сайты без рекламы · 🛡 — обход блокировок и белых списков · 🧠 — работа с Gemini и нейросетями · 📶 — защита в любых Wi-Fi сетях · 🚀 — высокая скорость
 
 #hide-settings: 1
 #ping-type: tcp
